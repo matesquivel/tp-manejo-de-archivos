@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "01-tp-manejo-de-archivos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Matias Esquivel",
+  "license": "ISC"
+}
